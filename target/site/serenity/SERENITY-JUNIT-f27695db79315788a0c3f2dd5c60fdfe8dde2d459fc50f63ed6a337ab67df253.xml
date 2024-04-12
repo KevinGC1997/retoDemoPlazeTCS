@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><testsuite errors="0" failures="0" name="Test api demoplaze Sing up and Login" skipped="0" tests="4" time="6.95" timestamp="2024-04-12 12:22:32"><testcase name="Create new user and try to create with the same user"/><testcase name="User login successfully and incorrectly"/></testsuite>
