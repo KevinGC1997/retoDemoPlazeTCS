@@ -32,7 +32,7 @@ features: Contiene las historias de usuario en lenguaje Gherkin.
 Instalación
 Para ejecutar este proyecto en tu máquina local, debes: Clona este repositorio en tu máquina local utilizando Git:
 
-git clone 
+git clone https://github.com/KevinGC1997/retoDemoPlazeTCS.git
 
 Ejecución por consola
 Para ejecutar las pruebas localmente por medio de la terminal, con este comando:
